@@ -1,25 +1,21 @@
-# README
+# Project Name
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample project for an auction application API
+# Table of Contents
 
-Things you may want to cover:
+    Installation
+    Technologies Used
 
-* Ruby version
+## Installation
 
-* System dependencies
+    Clone the repository using git clone https://github.com/your-username/your-project.git
+    Install dependencies using bundle install
+    Create the database using rails db:create
+    Run database migrations using rails db:migrate
+    Seed the database with sample data using rails db:seed
 
-* Configuration
+Note: You need to have PostgreSQL installed on your system in order to create and use the database.
+## Technologies Used
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# auction-api
+    Ruby on Rails
+    PostgreSQL
